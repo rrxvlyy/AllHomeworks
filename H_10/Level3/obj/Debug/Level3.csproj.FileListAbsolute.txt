@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\Level3\Level3\obj\Debug\Level3.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\Level3\Level3\obj\Debug\Level3.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\Level3\Level3\bin\Debug\Level3.exe.config
+C:\Users\ibrem\source\repos\Level3\Level3\bin\Debug\Level3.exe
+C:\Users\ibrem\source\repos\Level3\Level3\bin\Debug\Level3.pdb
+C:\Users\ibrem\source\repos\Level3\Level3\obj\Debug\Level3.exe
+C:\Users\ibrem\source\repos\Level3\Level3\obj\Debug\Level3.pdb
+C:\Users\ibrem\source\repos\Level3\Level3\obj\Debug\Level3.exe.config

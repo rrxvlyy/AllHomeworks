@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\Level3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|c:\\users\\ibrem\\source\\repos\\level3\\level3\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|solutionrelative:level3\\journal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|C:\\Users\\ibrem\\source\\repos\\Level3\\level3\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|solutionrelative:level3\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|C:\\Users\\ibrem\\source\\repos\\Level3\\level3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|solutionrelative:level3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|C:\\Users\\ibrem\\source\\repos\\Level3\\level3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9233E4ED-A6E9-4754-A18C-77311C6D8F9D}|Level3\\Level3.csproj|solutionrelative:level3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Program.cs",
+              "RelativeDocumentMoniker": "Level3\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Program.cs",
+              "RelativeToolTip": "Level3\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwE0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:33:43.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Player.cs",
+              "RelativeDocumentMoniker": "Level3\\Player.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Player.cs",
+              "RelativeToolTip": "Level3\\Player.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:45:22.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Spell.cs",
+              "RelativeDocumentMoniker": "Level3\\Spell.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Spell.cs",
+              "RelativeToolTip": "Level3\\Spell.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T09:35:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Journal.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Journal.cs",
+              "RelativeDocumentMoniker": "Level3\\Journal.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level3\\Level3\\Journal.cs",
+              "RelativeToolTip": "Level3\\Journal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T10:22:50.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
