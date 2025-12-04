@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\Homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69892E9F-CE24-422F-AED6-41441ECF24D0}|Homework1\\Homework1.csproj|c:\\users\\ibrem\\desktop\\homework1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\Desktop\\Homework1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\Homework1.cs",
+              "ToolTip": "C:\\Users\\ibrem\\Desktop\\Homework1.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\Homework1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:33:39.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
