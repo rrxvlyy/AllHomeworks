@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\obj\Debug\OOP_FirstDz_4.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\obj\Debug\OOP_FirstDz_4.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\bin\Debug\OOP_FirstDz_4.exe.config
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\bin\Debug\OOP_FirstDz_4.exe
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\bin\Debug\OOP_FirstDz_4.pdb
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\obj\Debug\OOP_FirstDz_4.exe
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\obj\Debug\OOP_FirstDz_4.pdb
+C:\Users\ibrem\source\repos\OOP_FirstDz_4\OOP_FirstDz_4\obj\Debug\OOP_FirstDz_4.exe.config
