@@ -1,0 +1,2 @@
+C:\Users\ibrem\source\repos\Level2\Level2\obj\Debug\Level2.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\Level2\Level2\obj\Debug\Level2.csproj.CoreCompileInputs.cache

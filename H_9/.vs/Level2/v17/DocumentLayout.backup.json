@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\Level2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\shielded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\shielded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|c:\\users\\ibrem\\source\\repos\\level2\\level2\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\burning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\burning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|C:\\Users\\ibrem\\source\\repos\\Level2\\level2\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C65D24C-37CE-465C-9B68-AF82BEAD6B91}|Level2\\Level2.csproj|solutionrelative:level2\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shielded.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Shielded.cs",
+              "RelativeDocumentMoniker": "Level2\\Shielded.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Shielded.cs",
+              "RelativeToolTip": "Level2\\Shielded.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T18:19:42.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Goblin.cs",
+              "RelativeDocumentMoniker": "Level2\\Goblin.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Goblin.cs",
+              "RelativeToolTip": "Level2\\Goblin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:34:41.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Mage.cs",
+              "RelativeDocumentMoniker": "Level2\\Mage.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Mage.cs",
+              "RelativeToolTip": "Level2\\Mage.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:34:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Character.cs",
+              "RelativeDocumentMoniker": "Level2\\Character.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Character.cs",
+              "RelativeToolTip": "Level2\\Character.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:39:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Burning.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Burning.cs",
+              "RelativeDocumentMoniker": "Level2\\Burning.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Burning.cs",
+              "RelativeToolTip": "Level2\\Burning.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:30:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Program.cs",
+              "RelativeDocumentMoniker": "Level2\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Program.cs",
+              "RelativeToolTip": "Level2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:39:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Effect.cs",
+              "RelativeDocumentMoniker": "Level2\\Effect.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Effect.cs",
+              "RelativeToolTip": "Level2\\Effect.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T17:41:09.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Battle.cs",
+              "RelativeDocumentMoniker": "Level2\\Battle.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\Level2\\Level2\\Battle.cs",
+              "RelativeToolTip": "Level2\\Battle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:43:40.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
