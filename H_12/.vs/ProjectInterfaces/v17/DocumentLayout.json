@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|c:\\users\\ibrem\\source\\repos\\projectinterfaces\\projectinterfaces\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\gem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\oldboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\oldboot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\scroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\scroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\magicring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\magicring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\istackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\istackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\isellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\isellable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\idiscardable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\idiscardable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\iusable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\projectinterfaces\\iequipable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39442255-8B0D-4995-ACBF-5220BD542A02}|ProjectInterfaces\\ProjectInterfaces.csproj|solutionrelative:projectinterfaces\\iequipable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Program.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwJMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:50:28.712Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Character.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Character.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Character.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Character.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAIkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:50:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Armor.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Armor.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Armor.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:58:44.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\HealthPotion.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\HealthPotion.cs",
+              "RelativeToolTip": "ProjectInterfaces\\HealthPotion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:16:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gem.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Gem.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Gem.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Gem.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Gem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:17:22.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Inventory.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Inventory.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Inventory.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:22:07.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Item.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Item.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Item.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Item.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:11:30.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Weapon.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Weapon.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:49:41.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OldBoot.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\OldBoot.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\OldBoot.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\OldBoot.cs",
+              "RelativeToolTip": "ProjectInterfaces\\OldBoot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:17:39.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Food.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Food.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Food.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Food.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:17:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISellable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\ISellable.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\ISellable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\ISellable.cs",
+              "RelativeToolTip": "ProjectInterfaces\\ISellable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:19:52.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStackable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IStackable.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\IStackable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IStackable.cs",
+              "RelativeToolTip": "ProjectInterfaces\\IStackable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T10:40:33.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MagicRing.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\MagicRing.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\MagicRing.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\MagicRing.cs",
+              "RelativeToolTip": "ProjectInterfaces\\MagicRing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T14:57:01.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scroll.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Scroll.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\Scroll.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\Scroll.cs",
+              "RelativeToolTip": "ProjectInterfaces\\Scroll.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:07:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUsable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IUsable.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\IUsable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IUsable.cs",
+              "RelativeToolTip": "ProjectInterfaces\\IUsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:18:24.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDiscardable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IDiscardable.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\IDiscardable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IDiscardable.cs",
+              "RelativeToolTip": "ProjectInterfaces\\IDiscardable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:20:59.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEquipable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IEquipable.cs",
+              "RelativeDocumentMoniker": "ProjectInterfaces\\IEquipable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\ProjectInterfaces\\ProjectInterfaces\\IEquipable.cs",
+              "RelativeToolTip": "ProjectInterfaces\\IEquipable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T13:19:17.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

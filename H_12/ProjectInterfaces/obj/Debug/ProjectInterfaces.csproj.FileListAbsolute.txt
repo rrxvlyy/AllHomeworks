@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\bin\Debug\ProjectInterfaces.exe.config
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\bin\Debug\ProjectInterfaces.exe
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\bin\Debug\ProjectInterfaces.pdb
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\obj\Debug\ProjectInterfaces.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\obj\Debug\ProjectInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\obj\Debug\ProjectInterfaces.exe
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\obj\Debug\ProjectInterfaces.pdb
+C:\Users\ibrem\source\repos\ProjectInterfaces\ProjectInterfaces\obj\Debug\ProjectInterfaces.exe.config
