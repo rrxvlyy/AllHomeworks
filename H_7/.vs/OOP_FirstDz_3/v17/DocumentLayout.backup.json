@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|c:\\users\\ibrem\\source\\repos\\oop_firstdz_3\\oop_firstdz_3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|solutionrelative:oop_firstdz_3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|c:\\users\\ibrem\\source\\repos\\oop_firstdz_3\\oop_firstdz_3\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|solutionrelative:oop_firstdz_3\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|c:\\users\\ibrem\\source\\repos\\oop_firstdz_3\\oop_firstdz_3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|solutionrelative:oop_firstdz_3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|c:\\users\\ibrem\\source\\repos\\oop_firstdz_3\\oop_firstdz_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B13DBFE1-7B32-4570-83C6-6F22F274B425}|OOP_FirstDz_3\\OOP_FirstDz_3.csproj|solutionrelative:oop_firstdz_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "OOP_FirstDz_3\\PlayerInventory.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\PlayerInventory.cs",
+              "RelativeToolTip": "OOP_FirstDz_3\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:23:02.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_FirstDz_3\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Program.cs",
+              "RelativeToolTip": "OOP_FirstDz_3\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:23:02.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Player.cs",
+              "RelativeDocumentMoniker": "OOP_FirstDz_3\\Player.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Player.cs",
+              "RelativeToolTip": "OOP_FirstDz_3\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:23:02.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Item.cs",
+              "RelativeDocumentMoniker": "OOP_FirstDz_3\\Item.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\OOP_FirstDz_3\\OOP_FirstDz_3\\Item.cs",
+              "RelativeToolTip": "OOP_FirstDz_3\\Item.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:23:00.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
