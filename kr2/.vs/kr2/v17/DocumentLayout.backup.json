@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\kr2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\itriggerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\itriggerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|c:\\users\\ibrem\\source\\repos\\kr2\\kr2\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6092DF-0822-4BAA-B216-7C7E730E7A0A}|kr2\\kr2.csproj|solutionrelative:kr2\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Door.cs",
+              "RelativeDocumentMoniker": "kr2\\Door.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Door.cs*",
+              "RelativeToolTip": "kr2\\Door.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:08:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Player.cs",
+              "RelativeDocumentMoniker": "kr2\\Player.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Player.cs",
+              "RelativeToolTip": "kr2\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:03:56.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\GameObject.cs",
+              "RelativeDocumentMoniker": "kr2\\GameObject.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\GameObject.cs",
+              "RelativeToolTip": "kr2\\GameObject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:53:08.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "kr2\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Checkpoint.cs",
+              "RelativeToolTip": "kr2\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:09:42.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Trap.cs",
+              "RelativeDocumentMoniker": "kr2\\Trap.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Trap.cs",
+              "RelativeToolTip": "kr2\\Trap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:10:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Program.cs",
+              "RelativeDocumentMoniker": "kr2\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\Program.cs",
+              "RelativeToolTip": "kr2\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:52:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\IDamageable.cs",
+              "RelativeDocumentMoniker": "kr2\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\IDamageable.cs",
+              "RelativeToolTip": "kr2\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:06:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITriggerable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\ITriggerable.cs",
+              "RelativeDocumentMoniker": "kr2\\ITriggerable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\ITriggerable.cs",
+              "RelativeToolTip": "kr2\\ITriggerable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:05:32.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\IInteractable.cs",
+              "RelativeDocumentMoniker": "kr2\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\kr2\\kr2\\IInteractable.cs",
+              "RelativeToolTip": "kr2\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:03:15.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
