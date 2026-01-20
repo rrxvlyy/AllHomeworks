@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\obj\Debug\3levelsred.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\obj\Debug\3levelsred.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\bin\Debug\3levelsred.exe.config
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\bin\Debug\3levelsred.exe
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\bin\Debug\3levelsred.pdb
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\obj\Debug\3levelsred.exe
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\obj\Debug\3levelsred.pdb
+C:\Users\ibrem\source\repos\3levelsred\3levelsred\obj\Debug\3levelsred.exe.config

@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|c:\\users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\spell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\effect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\battlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\battlelogentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\battlelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2289BE81-E046-4663-8952-0E084AE65461}|3levelsred\\3levelsred.csproj|solutionrelative:3levelsred\\battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Battle.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Battle.cs",
+              "RelativeDocumentMoniker": "3levelsred\\Battle.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Battle.cs",
+              "RelativeToolTip": "3levelsred\\Battle.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:28:00.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BattleLog.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\BattleLog.cs",
+              "RelativeDocumentMoniker": "3levelsred\\BattleLog.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\BattleLog.cs",
+              "RelativeToolTip": "3levelsred\\BattleLog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:27:27.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleLogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\BattleLogEntry.cs",
+              "RelativeDocumentMoniker": "3levelsred\\BattleLogEntry.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\BattleLogEntry.cs",
+              "RelativeToolTip": "3levelsred\\BattleLogEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:27:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Character.cs",
+              "RelativeDocumentMoniker": "3levelsred\\Character.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Character.cs",
+              "RelativeToolTip": "3levelsred\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:23:06.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Effect.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Effect.cs",
+              "RelativeDocumentMoniker": "3levelsred\\Effect.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Effect.cs",
+              "RelativeToolTip": "3levelsred\\Effect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:22:46.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spell.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Spell.cs",
+              "RelativeDocumentMoniker": "3levelsred\\Spell.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Spell.cs",
+              "RelativeToolTip": "3levelsred\\Spell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:21:59.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Program.cs",
+              "RelativeDocumentMoniker": "3levelsred\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\3levelsred\\3levelsred\\Program.cs",
+              "RelativeToolTip": "3levelsred\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:19:18.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
