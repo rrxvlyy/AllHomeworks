@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\obj\Debug\2levelsred.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\obj\Debug\2levelsred.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\bin\Debug\2levelsred.exe.config
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\bin\Debug\2levelsred.exe
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\bin\Debug\2levelsred.pdb
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\obj\Debug\2levelsred.exe
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\obj\Debug\2levelsred.pdb
+C:\Users\ibrem\source\repos\2levelsred\2levelsred\obj\Debug\2levelsred.exe.config
