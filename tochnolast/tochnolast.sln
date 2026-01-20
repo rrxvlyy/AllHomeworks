@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tochnolast", "tochnolast\tochnolast.csproj", "{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93A5EB0B-536E-4917-ACDF-535E8597CBCE}
+	EndGlobalSection
+EndGlobal

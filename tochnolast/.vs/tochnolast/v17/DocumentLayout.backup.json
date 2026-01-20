@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\equipmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\armortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\armortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\accessory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|c:\\users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CDB6B7-B9CF-4EF5-B47E-7F58C6248890}|tochnolast\\tochnolast.csproj|solutionrelative:tochnolast\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Program.cs",
+              "RelativeDocumentMoniker": "tochnolast\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Program.cs",
+              "RelativeToolTip": "tochnolast\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:25:53.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Weapon.cs",
+              "RelativeDocumentMoniker": "tochnolast\\Weapon.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Weapon.cs",
+              "RelativeToolTip": "tochnolast\\Weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:06:09.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArmorType.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\ArmorType.cs",
+              "RelativeDocumentMoniker": "tochnolast\\ArmorType.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\ArmorType.cs",
+              "RelativeToolTip": "tochnolast\\ArmorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:06:51.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EquipmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\EquipmentManager.cs",
+              "RelativeDocumentMoniker": "tochnolast\\EquipmentManager.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\EquipmentManager.cs",
+              "RelativeToolTip": "tochnolast\\EquipmentManager.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAIwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:43:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Accessory.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Accessory.cs",
+              "RelativeDocumentMoniker": "tochnolast\\Accessory.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Accessory.cs",
+              "RelativeToolTip": "tochnolast\\Accessory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:08:01.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Armor.cs",
+              "RelativeDocumentMoniker": "tochnolast\\Armor.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Armor.cs",
+              "RelativeToolTip": "tochnolast\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:07:21.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Item.cs",
+              "RelativeDocumentMoniker": "tochnolast\\Item.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\tochnolast\\tochnolast\\Item.cs",
+              "RelativeToolTip": "tochnolast\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:05:48.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\bin\Debug\tochnolast.exe.config
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\bin\Debug\tochnolast.exe
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\bin\Debug\tochnolast.pdb
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\obj\Debug\tochnolast.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\obj\Debug\tochnolast.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\obj\Debug\tochnolast.exe
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\obj\Debug\tochnolast.pdb
+C:\Users\ibrem\source\repos\tochnolast\tochnolast\obj\Debug\tochnolast.exe.config
