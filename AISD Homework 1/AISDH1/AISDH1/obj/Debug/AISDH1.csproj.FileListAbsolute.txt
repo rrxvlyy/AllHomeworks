@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\bin\Debug\AISDH1.exe.config
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\bin\Debug\AISDH1.exe
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\bin\Debug\AISDH1.pdb
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\obj\Debug\AISDH1.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\obj\Debug\AISDH1.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\obj\Debug\AISDH1.exe
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\obj\Debug\AISDH1.pdb
+C:\Users\ibrem\source\repos\AISDH1\AISDH1\obj\Debug\AISDH1.exe.config

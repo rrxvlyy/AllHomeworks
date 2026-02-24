@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrem\\source\\repos\\AISDH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{905263D7-111B-441C-B5F9-4038F63BECCD}|AISDH1\\AISDH1.csproj|c:\\users\\ibrem\\source\\repos\\aisdh1\\aisdh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{905263D7-111B-441C-B5F9-4038F63BECCD}|AISDH1\\AISDH1.csproj|solutionrelative:aisdh1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrem\\source\\repos\\AISDH1\\AISDH1\\Program.cs",
+              "RelativeDocumentMoniker": "AISDH1\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrem\\source\\repos\\AISDH1\\AISDH1\\Program.cs*",
+              "RelativeToolTip": "AISDH1\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:08:17.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
